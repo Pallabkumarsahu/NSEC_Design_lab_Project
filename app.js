@@ -116,5 +116,5 @@ app.get('/signup', function(req, res){
 
 app.listen(5000, function(err){
     if (err) throw err
-    console.log("Server isbokachoda...!!")
+    console.log("Server is running ...!!")
 })
